@@ -1,0 +1,34 @@
+name: MyFristPlugin
+version: '1.0-SNAPSHOT'
+main: myfristpluging.myfristplugin.MyFristPlugin
+api-version: 1.18
+prefix: lzix
+authors: [ lzix ]
+description: MyFristPlugin
+
+commands:
+  die:
+    description: "§c將指定的人殺死"
+    usage: /<command> [玩家ID]
+  god:
+    description: "§6成為神"
+    usage: /<command> [玩家ID]
+  feed:
+    description: "§4將玩家餵飽"
+    usage: /<command> [玩家ID]
+
+  healing:
+    description: "§d將玩家治癒"
+    usage: /<command> [玩家ID]
+  freeze:
+    description: "§b將玩家冰凍"
+    usage: /<command> [玩家ID]
+  freezeList:
+    description: "§b查看冷凍中玩家清單"
+    usage: /<command>
+  setspawn:
+    description: "§a設置伺服器出生點"
+    usage: /<command>
+  spawn:
+      description: "§a傳送至出生點"
+      usage: /<command>
