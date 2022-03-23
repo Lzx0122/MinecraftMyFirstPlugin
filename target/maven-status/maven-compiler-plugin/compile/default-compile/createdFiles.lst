@@ -3,5 +3,6 @@ myfristpluging/myfristplugin/MyFristPlugin.class
 myfristpluging/myfristplugin/command/healingCommand.class
 myfristpluging/myfristplugin/command/dieCommand.class
 myfristpluging/myfristplugin/command/spawnCommand.class
+myfristpluging/myfristplugin/command/flycommand.class
 myfristpluging/myfristplugin/command/freezeCommand.class
 myfristpluging/myfristplugin/command/godCommand.class

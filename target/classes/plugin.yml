@@ -32,3 +32,9 @@ commands:
   spawn:
       description: "§a傳送至出生點"
       usage: /<command>
+  fly:
+      description: "§b飛行"
+      usage: /<command> [玩家ID]
+  flylist:
+      description: "§b飛行人員清單"
+      usage: /<command>

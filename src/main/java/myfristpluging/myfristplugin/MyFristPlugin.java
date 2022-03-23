@@ -27,8 +27,9 @@ public final class MyFristPlugin extends JavaPlugin implements Listener {
         getCommand("freezeList").setExecutor(new freezeCommand());
         getCommand("setspawn").setExecutor(new spawnCommand(this));
         getCommand("spawn").setExecutor(new spawnCommand(this));
-        getCommand("fly").setExecutor(new flycommand());
         getCommand("flylist").setExecutor(new flycommand());
+        getCommand("fly").setExecutor(new flycommand());
+
         getConfig().options().copyDefaults();
         saveDefaultConfig();
 

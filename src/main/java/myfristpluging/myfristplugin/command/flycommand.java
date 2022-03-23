@@ -21,7 +21,7 @@ public class flycommand implements CommandExecutor{
             p.sendMessage("§4你沒有此指令權限(commands.fly)");
             return true;
         }
-        if(!command.getName().equalsIgnoreCase("flylist")){
+        if(command.getName().equalsIgnoreCase("flylist")){
             if(flylist.size() == 0){
                 sender.sendMessage("§b飛行中名單為空。");
                 return true;
