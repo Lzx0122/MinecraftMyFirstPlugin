@@ -38,3 +38,6 @@ commands:
   flylist:
       description: "§b飛行人員清單"
       usage: /<command>
+  menu:
+      description: "§6伺服器選單"
+      usage: /<command>
