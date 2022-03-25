@@ -1,10 +1,13 @@
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/dieCommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/MyFristPlugin.java
+/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/vaultCommand.java
+/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/utils/Vaultutils.java
+/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/events/clickevents.java
+/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/godCommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/healingCommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/menuCommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/flycommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/feedCommand.java
-/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/events/clickevents.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/freezeCommand.java
 /Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/spawnCommand.java
-/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/command/godCommand.java
+/Users/liaozixiang/Minecraft-MyFirstPlugin/src/main/java/myfristpluging/myfristplugin/events/vaultListeners.java

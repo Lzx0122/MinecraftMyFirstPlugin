@@ -15,6 +15,8 @@ import static org.bukkit.Bukkit.getServer;
 
 public final class MyFristPlugin extends JavaPlugin implements Listener {
 
+    private static MyFristPlugin plugin;
+
     @Override
     public void onEnable() {
         // Plugin startup logic
@@ -34,10 +36,10 @@ public final class MyFristPlugin extends JavaPlugin implements Listener {
         getCommand("fly").setExecutor(new flycommand());
         getCommand("menu").setExecutor(new menuCommand());
         getServer().getPluginManager().registerEvents(new clickevents(),this);
+        plugin = this;
 
         getConfig().options().copyDefaults();
         saveDefaultConfig();
-
 
     }
 
@@ -75,5 +77,7 @@ public final class MyFristPlugin extends JavaPlugin implements Listener {
     }
 
 
-
+    public static MyFristPlugin getPlugin() {
+        return plugin;
+    }
 }

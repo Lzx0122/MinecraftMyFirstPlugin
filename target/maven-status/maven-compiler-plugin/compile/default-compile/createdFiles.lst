@@ -1,10 +1,13 @@
-myfristpluging/myfristplugin/command/feedCommand.class
 myfristpluging/myfristplugin/MyFristPlugin.class
-myfristpluging/myfristplugin/command/menuCommand.class
-myfristpluging/myfristplugin/command/healingCommand.class
 myfristpluging/myfristplugin/command/dieCommand.class
 myfristpluging/myfristplugin/command/spawnCommand.class
-myfristpluging/myfristplugin/command/flycommand.class
 myfristpluging/myfristplugin/command/freezeCommand.class
 myfristpluging/myfristplugin/command/godCommand.class
 myfristpluging/myfristplugin/events/clickevents.class
+myfristpluging/myfristplugin/command/feedCommand.class
+myfristpluging/myfristplugin/command/vaultCommand.class
+myfristpluging/myfristplugin/events/vaultListeners.class
+myfristpluging/myfristplugin/command/menuCommand.class
+myfristpluging/myfristplugin/command/healingCommand.class
+myfristpluging/myfristplugin/command/flycommand.class
+myfristpluging/myfristplugin/utils/Vaultutils.class
