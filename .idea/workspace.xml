@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33ade007-097b-4dda-b57e-8f0822db48ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myfristpluging/myfristplugin/command/vaultCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myfristpluging/myfristplugin/events/vaultListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myfristpluging/myfristplugin/utils/Vaultutils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myfristpluging/myfristplugin/MyFristPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myfristpluging/myfristplugin/MyFristPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/MyFristPlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/MyFristPlugin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/command/menuCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/command/menuCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/command/spawnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/myfristpluging/myfristplugin/command/spawnCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myFristPlugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/myFristPlugin-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-myFristPlugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-myFristPlugin-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
